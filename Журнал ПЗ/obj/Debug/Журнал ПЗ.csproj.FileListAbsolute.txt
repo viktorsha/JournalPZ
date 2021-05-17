@@ -1,0 +1,109 @@
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\App.xaml.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\AppContext.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\DatabaseHandler.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Employee.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Database\employees.db
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\App.config
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\MainWindow.xaml.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe.config
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe.manifest
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Журнал ПЗ.application
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Журнал ПЗ.pdb
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\EntityFramework.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\EntityFramework.SqlServer.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Microsoft.CSharp.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\PresentationCore.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\PresentationFramework.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Spire.License.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Spire.Pdf.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Spire.XLS.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.ComponentModel.DataAnnotations.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Data.DataSetExtensions.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Data.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Data.SQLite.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Net.Http.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Xaml.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Xml.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Xml.Linq.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\WindowsBase.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Microsoft.mshtml.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\EntityFramework.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\EntityFramework.SqlServer.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Spire.License.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Spire.Pdf.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\Spire.XLS.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Debug\System.Data.SQLite.xml
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.csprojAssemblyReference.cache
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\MainWindow.g.cs
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\App.g.cs
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ_MarkupCompile.cache
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ_MarkupCompile.lref
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\MainWindow.baml
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.g.resources
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.GenerateResource.cache
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.CoreCompileInputs.cache
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.exe.manifest
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.application
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.CopyComplete
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.exe
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал ПЗ.pdb
+H:\Журнал ПЗ\Журнал ПЗ\obj\Debug\Журнал_ПЗ.Properties.Resources.resources
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\App.xaml.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\AppContext.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\DatabaseHandler.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Employee.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\MainWindow.xaml.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\App.config
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\EntityFramework.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\EntityFramework.SqlServer.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Microsoft.CSharp.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\PresentationCore.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\PresentationFramework.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.License.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.Pdf.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.XLS.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.ComponentModel.DataAnnotations.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.DataSetExtensions.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.SQLite.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Net.Http.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Xaml.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Xml.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Xml.Linq.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\WindowsBase.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Microsoft.mshtml.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\EntityFramework.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\EntityFramework.SqlServer.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.License.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.Pdf.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.XLS.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.SQLite.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.csprojAssemblyReference.cache
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\MainWindow.g.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\App.g.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\MainWindow.baml
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал_ПЗ.Properties.Resources.resources
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.GenerateResource.cache
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.CoreCompileInputs.cache
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.CopyComplete
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\MoralesLarios.Utilities.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe.config
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe.manifest
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.application
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.pdb
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ_MarkupCompile.cache
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ_MarkupCompile.lref
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.g.resources
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.exe.manifest
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.application
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.exe
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.pdb
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Database\employees.db

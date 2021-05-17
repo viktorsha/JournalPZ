@@ -1,0 +1,194 @@
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\График_ПЗ.exe.config
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\График_ПЗ.exe
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\График_ПЗ.pdb
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\EntityFramework.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\EntityFramework.SqlServer.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\Spire.License.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\Spire.Pdf.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\Spire.XLS.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\System.Data.SQLite.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\Microsoft.mshtml.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\EntityFramework.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\EntityFramework.SqlServer.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\Spire.License.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\Spire.Pdf.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\Spire.XLS.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\System.Data.SQLite.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\MainWindow.g.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\App.g.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ_MarkupCompile.cache
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ_MarkupCompile.lref
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\MainWindow.baml
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.g.resources
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.Properties.Resources.resources
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.csproj.GenerateResource.cache
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.csproj.CoreCompileInputs.cache
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.csproj.CopyComplete
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.exe
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.pdb
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\bin\Debug\employees.db
+H:\Viktoria\Work\Интер РАО\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.csprojAssemblyReference.cache
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.exe.config
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.exe
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.pdb
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\EntityFramework.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\EntityFramework.SqlServer.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.License.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.Pdf.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.XLS.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.SQLite.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.SQLite.EF6.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.SQLite.Linq.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Microsoft.mshtml.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\EntityFramework.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\EntityFramework.SqlServer.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.License.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.Pdf.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.XLS.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.SQLite.xml
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.csprojAssemblyReference.cache
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\MainWindow.g.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\App.g.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ_MarkupCompile.cache
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ_MarkupCompile.lref
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\MainWindow.baml
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.g.resources
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.Properties.Resources.resources
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.csproj.GenerateResource.cache
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.csproj.CoreCompileInputs.cache
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.csproj.CopyComplete
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.exe
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.pdb
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.exe.manifest
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.application
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.exe.manifest
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.application
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\App.xaml.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\AppContext.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\DatabaseHandler.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Employee.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\MainWindow.xaml.cs
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\App.config
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\Microsoft.CSharp.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\PresentationCore.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\PresentationFramework.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.ComponentModel.DataAnnotations.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.DataSetExtensions.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Net.Http.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Xaml.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Xml.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Xml.Linq.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\WindowsBase.dll
+H:\Viktoria\Work\Интер РАО\График_ПЗ - Copy\График_ПЗ\bin\Debug\employees.db
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\App.xaml.cs
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\AppContext.cs
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\DatabaseHandler.cs
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Employee.cs
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\employees.db
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\MainWindow.xaml.cs
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\App.config
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.exe.config
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.exe.manifest
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.application
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.exe
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\График_ПЗ.pdb
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\EntityFramework.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\EntityFramework.SqlServer.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Microsoft.CSharp.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\PresentationCore.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\PresentationFramework.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.License.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.Pdf.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.XLS.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.ComponentModel.DataAnnotations.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.DataSetExtensions.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.SQLite.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.SQLite.EF6.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.SQLite.Linq.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Net.Http.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Xaml.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Xml.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Xml.Linq.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\WindowsBase.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Microsoft.mshtml.dll
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\EntityFramework.xml
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\EntityFramework.SqlServer.xml
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.License.xml
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.Pdf.xml
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\Spire.XLS.xml
+H:\График_ПЗ - Copy\График_ПЗ\bin\Debug\System.Data.SQLite.xml
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.csprojAssemblyReference.cache
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\MainWindow.g.cs
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\App.g.cs
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ_MarkupCompile.cache
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ_MarkupCompile.lref
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\MainWindow.baml
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.g.resources
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.Properties.Resources.resources
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.csproj.GenerateResource.cache
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.csproj.CoreCompileInputs.cache
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.exe.manifest
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.application
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.csproj.CopyComplete
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.exe
+H:\График_ПЗ - Copy\График_ПЗ\obj\Debug\График_ПЗ.pdb
+H:\График_ПЗ\График_ПЗ\bin\Debug\App.xaml.cs
+H:\График_ПЗ\График_ПЗ\bin\Debug\AppContext.cs
+H:\График_ПЗ\График_ПЗ\bin\Debug\Employee.cs
+H:\График_ПЗ\График_ПЗ\bin\Debug\MainWindow.xaml.cs
+H:\График_ПЗ\График_ПЗ\bin\Debug\DatabaseHandler.cs
+H:\График_ПЗ\График_ПЗ\bin\Debug\App.config
+H:\График_ПЗ\График_ПЗ\bin\Debug\График_ПЗ.exe.config
+H:\График_ПЗ\График_ПЗ\bin\Debug\График_ПЗ.exe.manifest
+H:\График_ПЗ\График_ПЗ\bin\Debug\График_ПЗ.application
+H:\График_ПЗ\График_ПЗ\bin\Debug\График_ПЗ.exe
+H:\График_ПЗ\График_ПЗ\bin\Debug\График_ПЗ.pdb
+H:\График_ПЗ\График_ПЗ\bin\Debug\EntityFramework.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\EntityFramework.SqlServer.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\Microsoft.CSharp.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\PresentationCore.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\PresentationFramework.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\Spire.License.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\Spire.Pdf.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\Spire.XLS.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.ComponentModel.DataAnnotations.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Data.DataSetExtensions.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Data.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Data.SQLite.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Data.SQLite.EF6.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Data.SQLite.Linq.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Net.Http.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Xaml.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Xml.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Xml.Linq.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\WindowsBase.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\Microsoft.mshtml.dll
+H:\График_ПЗ\График_ПЗ\bin\Debug\EntityFramework.xml
+H:\График_ПЗ\График_ПЗ\bin\Debug\EntityFramework.SqlServer.xml
+H:\График_ПЗ\График_ПЗ\bin\Debug\Spire.License.xml
+H:\График_ПЗ\График_ПЗ\bin\Debug\Spire.Pdf.xml
+H:\График_ПЗ\График_ПЗ\bin\Debug\Spire.XLS.xml
+H:\График_ПЗ\График_ПЗ\bin\Debug\System.Data.SQLite.xml
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.csprojAssemblyReference.cache
+H:\График_ПЗ\График_ПЗ\obj\Debug\MainWindow.g.cs
+H:\График_ПЗ\График_ПЗ\obj\Debug\App.g.cs
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ_MarkupCompile.cache
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ_MarkupCompile.lref
+H:\График_ПЗ\График_ПЗ\obj\Debug\MainWindow.baml
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.g.resources
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.Properties.Resources.resources
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.csproj.GenerateResource.cache
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.csproj.CoreCompileInputs.cache
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.exe.manifest
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.application
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.csproj.CopyComplete
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.exe
+H:\График_ПЗ\График_ПЗ\obj\Debug\График_ПЗ.pdb
+H:\График_ПЗ\График_ПЗ\bin\Debug\Database\employees.db

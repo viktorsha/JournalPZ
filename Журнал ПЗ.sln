@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Журнал ПЗ", "Журнал ПЗ\Журнал ПЗ.csproj", "{15DEBB22-E240-47AA-B07E-8BAF1F408923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15DEBB22-E240-47AA-B07E-8BAF1F408923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DEBB22-E240-47AA-B07E-8BAF1F408923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DEBB22-E240-47AA-B07E-8BAF1F408923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DEBB22-E240-47AA-B07E-8BAF1F408923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {305BB0E6-6492-41A1-80B2-AE5FF216D557}
+	EndGlobalSection
+EndGlobal

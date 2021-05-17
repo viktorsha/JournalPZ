@@ -1,0 +1,109 @@
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\App.xaml.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\AppContext.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\DatabaseHandler.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Employee.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\MainWindow.xaml.cs
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Database\employees.db
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\App.config
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\EntityFramework.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\EntityFramework.SqlServer.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Microsoft.CSharp.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\PresentationCore.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\PresentationFramework.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Spire.License.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Spire.Pdf.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Spire.XLS.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.ComponentModel.DataAnnotations.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Data.DataSetExtensions.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Data.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Data.SQLite.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Data.SQLite.EF6.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Data.SQLite.Linq.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Net.Http.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Xaml.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Xml.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Xml.Linq.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\WindowsBase.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Microsoft.mshtml.dll
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\EntityFramework.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\EntityFramework.SqlServer.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Spire.License.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Spire.Pdf.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Spire.XLS.xml
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\System.Data.SQLite.xml
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.csprojAssemblyReference.cache
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\MainWindow.g.cs
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\App.g.cs
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\MainWindow.baml
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\График_ПЗ.Properties.Resources.resources
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.csproj.GenerateResource.cache
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.csproj.CoreCompileInputs.cache
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.csproj.CopyComplete
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Журнал ПЗ.exe.config
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Журнал ПЗ.exe.manifest
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Журнал ПЗ.application
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Журнал ПЗ.exe
+H:\Журнал ПЗ\Журнал ПЗ\bin\Release\Журнал ПЗ.pdb
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ_MarkupCompile.cache
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ_MarkupCompile.lref
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.g.resources
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.exe.manifest
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.application
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.exe
+H:\Журнал ПЗ\Журнал ПЗ\obj\Release\Журнал ПЗ.pdb
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\App.xaml.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\AppContext.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\DatabaseHandler.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Employee.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\MainWindow.xaml.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Database\employees.db
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\App.config
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\EntityFramework.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\EntityFramework.SqlServer.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Microsoft.CSharp.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\MoralesLarios.Utilities.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\PresentationCore.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\PresentationFramework.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Spire.License.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Spire.Pdf.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Spire.XLS.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.ComponentModel.DataAnnotations.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Data.DataSetExtensions.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Data.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Data.SQLite.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Data.SQLite.EF6.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Data.SQLite.Linq.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Net.Http.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Xaml.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Xml.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Xml.Linq.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\WindowsBase.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Microsoft.mshtml.dll
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\EntityFramework.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\EntityFramework.SqlServer.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Spire.License.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Spire.Pdf.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Spire.XLS.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\System.Data.SQLite.xml
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.csprojAssemblyReference.cache
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\MainWindow.g.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\App.g.cs
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\MainWindow.baml
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал_ПЗ.Properties.Resources.resources
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.csproj.GenerateResource.cache
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.csproj.CoreCompileInputs.cache
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.csproj.CopyComplete
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Журнал ПЗ.exe.config
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Журнал ПЗ.exe.manifest
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Журнал ПЗ.application
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Журнал ПЗ.exe
+H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Release\Журнал ПЗ.pdb
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ_MarkupCompile.cache
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ_MarkupCompile.lref
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.g.resources
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.exe.manifest
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.application
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.exe
+H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Release\Журнал ПЗ.pdb

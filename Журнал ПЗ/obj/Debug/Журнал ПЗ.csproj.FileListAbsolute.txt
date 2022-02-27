@@ -107,3 +107,58 @@ H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал П�
 H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.exe
 H:\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.pdb
 H:\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Database\employees.db
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\App.xaml.cs
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\AppContext.cs
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\DatabaseHandler.cs
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Employee.cs
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\MainWindow.xaml.cs
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Database\employees.db
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\App.config
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe.config
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe.manifest
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.application
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.exe
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Журнал ПЗ.pdb
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\EntityFramework.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\EntityFramework.SqlServer.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Microsoft.CSharp.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\MoralesLarios.Utilities.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\PresentationCore.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\PresentationFramework.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.License.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.Pdf.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.XLS.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.ComponentModel.DataAnnotations.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.SQLite.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Net.Http.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Xaml.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Xml.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Xml.Linq.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\WindowsBase.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Microsoft.mshtml.dll
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\EntityFramework.xml
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\EntityFramework.SqlServer.xml
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.License.xml
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.Pdf.xml
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\Spire.XLS.xml
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\bin\Debug\System.Data.SQLite.xml
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.AssemblyReference.cache
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\MainWindow.g.cs
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\App.g.cs
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ_MarkupCompile.cache
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ_MarkupCompile.lref
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\MainWindow.baml
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.g.resources
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал_ПЗ.Properties.Resources.resources
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.GenerateResource.cache
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.CoreCompileInputs.cache
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.exe.manifest
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.application
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.csproj.CopyComplete
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.exe
+D:\Viktoria\Журнал ПЗ — копия\Журнал ПЗ\obj\Debug\Журнал ПЗ.pdb

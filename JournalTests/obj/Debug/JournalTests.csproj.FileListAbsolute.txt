@@ -1,0 +1,2 @@
+D:\Viktoria\Журнал ПЗ — копия\JournalTests\obj\Debug\JournalTests.csproj.AssemblyReference.cache
+D:\Viktoria\Журнал ПЗ — копия\JournalTests\obj\Debug\JournalTests.csproj.CoreCompileInputs.cache

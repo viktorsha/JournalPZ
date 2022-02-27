@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="http://desktop-5ls0mg5/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%9F%D0%97/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9F%D0%97.application" />
+    <deploymentProvider codebase="http://desktop-fddl8dn/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%9F%D0%97/%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%20%D0%9F%D0%97.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
@@ -21,7 +21,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tzeQ0/n9qQ2u0q751/qXYWVCxSjDvYTGMlMXxHZT1kk=</dsig:DigestValue>
+        <dsig:DigestValue>G7jgG+SCWdSNS9eSIAlZdo6LqiImGYHiksxRoPVnq6o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

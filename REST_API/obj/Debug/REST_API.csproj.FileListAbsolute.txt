@@ -1,0 +1,2 @@
+D:\Viktoria\Журнал ПЗ — копия\REST_API\obj\Debug\REST_API.csproj.AssemblyReference.cache
+D:\Viktoria\Журнал ПЗ — копия\REST_API\obj\Debug\REST_API.csproj.CoreCompileInputs.cache

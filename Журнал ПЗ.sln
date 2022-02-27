@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Журнал ПЗ", "Журнал ПЗ\Журнал ПЗ.csproj", "{15DEBB22-E240-47AA-B07E-8BAF1F408923}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST_API", "REST_API\REST_API.csproj", "{491AD004-C0E0-490D-8479-34FD7BE76393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalTests", "JournalTests\JournalTests.csproj", "{A6EA12CC-82FA-493E-AC5A-AAB2E705B480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{15DEBB22-E240-47AA-B07E-8BAF1F408923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15DEBB22-E240-47AA-B07E-8BAF1F408923}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15DEBB22-E240-47AA-B07E-8BAF1F408923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491AD004-C0E0-490D-8479-34FD7BE76393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491AD004-C0E0-490D-8479-34FD7BE76393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491AD004-C0E0-490D-8479-34FD7BE76393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491AD004-C0E0-490D-8479-34FD7BE76393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EA12CC-82FA-493E-AC5A-AAB2E705B480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EA12CC-82FA-493E-AC5A-AAB2E705B480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EA12CC-82FA-493E-AC5A-AAB2E705B480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EA12CC-82FA-493E-AC5A-AAB2E705B480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
